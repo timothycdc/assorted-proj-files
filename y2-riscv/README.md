@@ -9,3 +9,8 @@
 ![](/y2-riscv/images/RISCV-1.png "Our single-cycle processor")
 
 diagrams credit to David Cai
+
+## assorted-proj-files
+
+- small directory of proof-of-project files during my degree
+- many source files are closed-source to prevent infringement/misconduct
